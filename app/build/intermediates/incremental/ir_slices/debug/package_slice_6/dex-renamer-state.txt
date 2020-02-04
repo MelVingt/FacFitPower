@@ -1,0 +1,4 @@
+#Mon Apr 29 12:37:11 CEST 2019
+base.0=C\:\\Users\\melvi\\AndroidStudioProjects\\MapFitPower\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

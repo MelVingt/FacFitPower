@@ -1,0 +1,272 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\d81b3f231de541f27e60b61a8f7823b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\b9af397b68dccddb66876c24d861481d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\6020ed6951eee3d2fd2c24b8df2ae57d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\52220aa6795bc0f10d795b747a524fd5\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f82969fd2e0216ae6312ffe5a74b69a4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f6a59cd5c14ce6b9fa5193e720fb64fc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f37a17ccf3ac3e53b2f986d2f659949b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ca52be7d57b4921455316405c5215676\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3ffa0814907d4e865b4a660293322b84\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\cf5fc91e14c1f16f5409f030695a83ff\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\4ca18805b361d67a1fd95c44cde7302a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\b477eb95347d30f01eae5ac371f9a5cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ae67607cbb9a257e1c6c59fab3fda1c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3e561dee924e8b00fd679f6ad3ad2cca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ccd5c9b071662cbe1a96e59a291d3100\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\d5069790589f5ceb954c5d8993baa800\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\359332cb36c186f0ded077ce242c7bb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\199032c724dfe56c9dfc420c187694a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3e128c97e80aec6042a7250778c3f41c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\451e350d2e5e32b79bdeab2feac03231\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\30742397ac6d8a8d6deae5d88c743cab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\b27fe0505bae417c1847e8f3df50bc69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ad15b8fdf83c90f2ec1dac1680e4ce87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\c4541c767f2a484385f22808b4267c7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\e8db2df6b311b763b204e2330e8415db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\56c40aef2d95f0ceedadeced9a529f3b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\9e2669507f3def5c6466497ac4abad5a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\e6b39896869eb9d6e726f5d079401ace\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\20cf2f23938233fc838ec5645c1685db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\db276d111ff7f882071deeff12f78103\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ec9cc9782d3feedd45a5eb3652ec1fd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ed7625a5d8a0bd81888f222e6b66b6c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\9311be3a5d3abb61732ca2602483cc43\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\7e30bcc2892eb77b1d85d8d0ec2e1ddb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3ccd4c9bac34898ea1ad4ee77df91488\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\6285e40e3bdd542c90e197c888b1adc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\d2be02f3d0bb98c0f8cb331f3df1103d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:7:5-109
+	android:protectionLevel
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:7:72-107
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:7:17-71
+permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:8:5-111
+	android:protectionLevel
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:8:74-109
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:8:17-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\52220aa6795bc0f10d795b747a524fd5\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\52220aa6795bc0f10d795b747a524fd5\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#com.example.mapdemo.permission.MAPS_RECEIVE
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:11:22-80
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\52220aa6795bc0f10d795b747a524fd5\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\52220aa6795bc0f10d795b747a524fd5\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:14:22-78
+uses-feature#0x00020000
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:16:5-18:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\52220aa6795bc0f10d795b747a524fd5\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\52220aa6795bc0f10d795b747a524fd5\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:18:9-32
+application
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:20:5-48:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\52220aa6795bc0f10d795b747a524fd5\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\52220aa6795bc0f10d795b747a524fd5\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f82969fd2e0216ae6312ffe5a74b69a4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f82969fd2e0216ae6312ffe5a74b69a4\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f6a59cd5c14ce6b9fa5193e720fb64fc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f6a59cd5c14ce6b9fa5193e720fb64fc\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f37a17ccf3ac3e53b2f986d2f659949b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f37a17ccf3ac3e53b2f986d2f659949b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ca52be7d57b4921455316405c5215676\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ca52be7d57b4921455316405c5215676\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3ffa0814907d4e865b4a660293322b84\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3ffa0814907d4e865b4a660293322b84\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\cf5fc91e14c1f16f5409f030695a83ff\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\cf5fc91e14c1f16f5409f030695a83ff\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\56c40aef2d95f0ceedadeced9a529f3b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\56c40aef2d95f0ceedadeced9a529f3b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\9e2669507f3def5c6466497ac4abad5a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\9e2669507f3def5c6466497ac4abad5a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\56c40aef2d95f0ceedadeced9a529f3b\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:24:9-40
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:27:9-88
+	android:required
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:27:61-85
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:27:23-60
+activity#com.example.mapdemo.MapDemoActivity
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:30:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:35:27-74
+uses-library#com.google.android.maps
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:39:9-88
+	android:required
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:39:23-46
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:39:47-85
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:41:9-43:59
+	android:value
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:42:13-62
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:45:9-47:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\cf5fc91e14c1f16f5409f030695a83ff\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\cf5fc91e14c1f16f5409f030695a83ff\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml:46:13-58
+uses-sdk
+INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\d81b3f231de541f27e60b61a8f7823b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\d81b3f231de541f27e60b61a8f7823b7\AndroidManifest.xml:20:5-44
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\b9af397b68dccddb66876c24d861481d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\b9af397b68dccddb66876c24d861481d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\6020ed6951eee3d2fd2c24b8df2ae57d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\6020ed6951eee3d2fd2c24b8df2ae57d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\52220aa6795bc0f10d795b747a524fd5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\52220aa6795bc0f10d795b747a524fd5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f82969fd2e0216ae6312ffe5a74b69a4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f82969fd2e0216ae6312ffe5a74b69a4\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f6a59cd5c14ce6b9fa5193e720fb64fc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f6a59cd5c14ce6b9fa5193e720fb64fc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f37a17ccf3ac3e53b2f986d2f659949b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f37a17ccf3ac3e53b2f986d2f659949b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ca52be7d57b4921455316405c5215676\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ca52be7d57b4921455316405c5215676\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3ffa0814907d4e865b4a660293322b84\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3ffa0814907d4e865b4a660293322b84\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\cf5fc91e14c1f16f5409f030695a83ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\cf5fc91e14c1f16f5409f030695a83ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\4ca18805b361d67a1fd95c44cde7302a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\4ca18805b361d67a1fd95c44cde7302a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\b477eb95347d30f01eae5ac371f9a5cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\b477eb95347d30f01eae5ac371f9a5cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ae67607cbb9a257e1c6c59fab3fda1c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ae67607cbb9a257e1c6c59fab3fda1c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3e561dee924e8b00fd679f6ad3ad2cca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3e561dee924e8b00fd679f6ad3ad2cca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ccd5c9b071662cbe1a96e59a291d3100\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ccd5c9b071662cbe1a96e59a291d3100\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\d5069790589f5ceb954c5d8993baa800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\d5069790589f5ceb954c5d8993baa800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\359332cb36c186f0ded077ce242c7bb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\359332cb36c186f0ded077ce242c7bb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\199032c724dfe56c9dfc420c187694a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\199032c724dfe56c9dfc420c187694a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3e128c97e80aec6042a7250778c3f41c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3e128c97e80aec6042a7250778c3f41c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\451e350d2e5e32b79bdeab2feac03231\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\451e350d2e5e32b79bdeab2feac03231\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\30742397ac6d8a8d6deae5d88c743cab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\30742397ac6d8a8d6deae5d88c743cab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\b27fe0505bae417c1847e8f3df50bc69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\b27fe0505bae417c1847e8f3df50bc69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ad15b8fdf83c90f2ec1dac1680e4ce87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ad15b8fdf83c90f2ec1dac1680e4ce87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\c4541c767f2a484385f22808b4267c7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\c4541c767f2a484385f22808b4267c7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\e8db2df6b311b763b204e2330e8415db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\e8db2df6b311b763b204e2330e8415db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\56c40aef2d95f0ceedadeced9a529f3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\56c40aef2d95f0ceedadeced9a529f3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\9e2669507f3def5c6466497ac4abad5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\9e2669507f3def5c6466497ac4abad5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\e6b39896869eb9d6e726f5d079401ace\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\e6b39896869eb9d6e726f5d079401ace\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\20cf2f23938233fc838ec5645c1685db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\20cf2f23938233fc838ec5645c1685db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\db276d111ff7f882071deeff12f78103\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\db276d111ff7f882071deeff12f78103\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ec9cc9782d3feedd45a5eb3652ec1fd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ec9cc9782d3feedd45a5eb3652ec1fd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ed7625a5d8a0bd81888f222e6b66b6c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\ed7625a5d8a0bd81888f222e6b66b6c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\9311be3a5d3abb61732ca2602483cc43\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\9311be3a5d3abb61732ca2602483cc43\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\7e30bcc2892eb77b1d85d8d0ec2e1ddb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\7e30bcc2892eb77b1d85d8d0ec2e1ddb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3ccd4c9bac34898ea1ad4ee77df91488\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\3ccd4c9bac34898ea1ad4ee77df91488\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\6285e40e3bdd542c90e197c888b1adc1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\6285e40e3bdd542c90e197c888b1adc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\d2be02f3d0bb98c0f8cb331f3df1103d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\d2be02f3d0bb98c0f8cb331f3df1103d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\melvi\AndroidStudioProjects\MapFitPower\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f37a17ccf3ac3e53b2f986d2f659949b\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f37a17ccf3ac3e53b2f986d2f659949b\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f37a17ccf3ac3e53b2f986d2f659949b\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\melvi\.gradle\caches\transforms-2\files-2.1\f37a17ccf3ac3e53b2f986d2f659949b\AndroidManifest.xml:24:13-79
